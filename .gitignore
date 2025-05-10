@@ -1,0 +1,16 @@
+# Godot-specific
+.import/
+.export/
+export.cfg
+export_presets.cfg
+
+# OS-specific (Windows)
+Thumbs.db
+Desktop.ini
+
+# Godot build cache and backups
+*.tmp
+*.godot/tmp/
+
+# Other common junk
+*.log

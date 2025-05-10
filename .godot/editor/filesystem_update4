@@ -1,0 +1,10 @@
+res://scenes/shovel.tscn
+res://scripts/shovel.gd
+res://scenes/level1.tscn
+res://scenes/level_2.tscn
+res://scenes/player.tscn
+res://scenes/killzone.tscn
+res://scenes/double_jump.tscn
+res://scripts/player.gd
+res://scripts/double_jump.gd
+res://scripts/next_level.gd

@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cw0yiya4iul0h"]
+
+[ext_resource type="Script" uid="uid://daa5iljpr82b0" path="res://scripts/dig_spot.gd" id="1_55ehb"]
+
+[node name="DigSpot" type="Area2D"]
+collision_mask = 3
+script = ExtResource("1_55ehb")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

@@ -1,0 +1,14 @@
+CharacterBody2D
+Area2D
+CollisionShape2D
+AnimationPlayer
+Sprite2D
+RayCast2D
+Timer
+Node
+Label
+Marker2D
+AnimatedSprite2D
+Camera2D
+VisibleOnScreenNotifier2D
+Node2D
